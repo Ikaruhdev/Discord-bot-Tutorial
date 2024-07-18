@@ -11,31 +11,23 @@ Este repositório contém um tutorial passo a passo para criar um bot simples pa
 
 1. [Pré-requisitos](#pré-requisitos)
 2. [Configuração](#configuração)
-3. [Código do Bot](#código-do-bot)
-4. [Como Rodar o Bot](#como-rodar-o-bot)
-5. [Recursos Adicionais](#recursos-adicionais)
-6. [Contribuições](#contribuições)
-7. [Licença](#licença)
 
-## Pré-requisitos
+Antes de começar, certifique-se de ter o seguinte instalado e configurado:
 
-- Node.js instalado
-- Conta no Discord
+- [Node.js](https://nodejs.org/) instalado
+- Conta no [Discord](https://discord.com/)
 - Servidor no Discord onde você tenha permissões de administrador
 
 ## Configuração
 
-1. **Inicializando bot**
-Você pode inicializar o bot de duas maneiras, a primeira seria está aqui:
-   
-bash
-   node bot.js
+Siga estas etapas para configurar seu ambiente de desenvolvimento:
+Não esqueça de instalar os seguintes modulos
+ npm i discord.js
+ npm i dotenv
 
-   A segunda você pode criar um .bat com o comando dentro:
-      
-start.bat
-      @echo off
-   node bot.js
 
-      Assim ele iniciará o bot.
+1. **Clone o repositório:**
 
+   ```bash
+   git clone https://github.com/seu-usuario/discord-bot-tutorial.git
+   cd discord-bot-tutorial
