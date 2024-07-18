@@ -2,7 +2,7 @@
 
 Este repositório contém um tutorial passo a passo para criar um bot simples para o Discord usando Node.js.
 
-![Bot Banner](https://link-para-imagem.com/banner.png)
+![Bot Banner](https://i.pinimg.com/564x/95/4e/29/954e2902cf34b4c5147584118dcb635f.jpg)
 
 [![Node.js](https://img.shields.io/badge/node.js-14.17.3-green)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/discord.js-14.0.0-blue)](https://discord.js.org/)
