@@ -25,8 +25,17 @@ Este repositório contém um tutorial passo a passo para criar um bot simples pa
 
 ## Configuração
 
-1. **Clone o repositório:**
+1. **Inicializando bot**
+Você pode inicializar o bot de duas maneiras, a primeira seria está aqui:
+   
+bash
+   node bot.js
 
-   ```bash
-   git clone https://github.com/seu-usuario/discord-bot-tutorial.git
-   cd discord-bot-tutorial
+   A segunda você pode criar um .bat com o comando dentro:
+      
+start.bat
+      @echo off
+   node bot.js
+
+      Assim ele iniciará o bot.
+
